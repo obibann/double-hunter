@@ -1,7 +1,8 @@
 # double-hunter
 Hunts files that exist more than once, efficiently
 
-workingDirPath: C:\Users\benber2\Documents\Projets\Dev\double-hunter
+
+Usage :
 
   -d    Enables debug mode
   
