@@ -14,7 +14,7 @@ Usage :
   
   -p string
   
-        Defines location to search doubles in (default "C:\\Users\\benber2\\Documents\\Projets\\Dev\\double-hunter")
+        Defines location to search doubles in
         
   -r    Read files recursively
   
